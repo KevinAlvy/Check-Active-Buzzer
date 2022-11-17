@@ -5,7 +5,8 @@ This file contains the code to check the "Active Buzzer Module" value on a Ardui
 <h2>💻 Local testing</h2>
 <ol>
     <li>Download <code>Active_Buzzer_test.ino</code></li>
-    <li>Connect <code>Pin 6</code> of the Arduino to the <code>positive side</code> of a Active Buzzer Module</li>
+    <li>Connect <code>Pin 6</code> of the Arduino to the <code>Pin I/O</code> of a Active Buzzer Module</li>
+    <li>Connect <code>Pin 5v</code> of the Arduino to the <code>VCC</code> of a Active Buzzer Module</li>
     <li><code>negative side</code> of a <code>Active Buzzer Module</code> end to the <code>ground pin</code> of the Arduino</li>
     <li><code>Upload</code> the sketch and enjoy!</li>
 </ol>
